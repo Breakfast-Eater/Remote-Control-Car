@@ -1,0 +1,54 @@
+float wired test:
+
+PWM duty cycle: 50
+L RPM: 70
+R RPM: 52
+
+PWM duty cycle: 55
+L RPM: 78
+R RPM: 58
+
+PWM duty cycle: 60
+L RPM: 87
+R RPM: 66
+
+PWM duty cycle: 65
+L RPM: 95
+R RPM: 74
+
+PWM duty cycle: 70
+L RPM: 104
+R RPM: 81
+
+PWM duty cycle: 75
+L RPM: 112
+R RPM: 89
+
+PWM duty cycle: 80
+L RPM: 121
+R RPM: 96
+
+PWM duty cycle: 85
+L RPM: 130
+R RPM: 104
+
+PWM duty cycle: 90
+L RPM: 138
+R RPM: 112
+
+PWM duty cycle: 95
+L RPM: 148
+R RPM: 121
+
+PWM duty cycle: 100
+L RPM: 155
+R RPM: 129
+
+
+best parameters(minimum offset of RPMs)
+Kp=0.35, Ki=0.1, Kd=0.0
+
+
+ground test: (no wireless data)
+best parameters(along straight line)
+Kp=0.4, Ki=0.1, Kd=0.0
